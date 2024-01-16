@@ -1,0 +1,3 @@
+[submodule "lfs-submodule"]
+	path = lfs-submodule
+	url = git@github.com:konstantinkleba/lfs-submodule.git
